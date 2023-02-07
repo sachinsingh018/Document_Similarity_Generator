@@ -12,3 +12,5 @@ Overall, the development of this fake news detection system was a comprehensive 
 Few Examples of Fake News:
 
 ![image](https://user-images.githubusercontent.com/38975177/217242790-7be75056-ac45-4ae1-9d7d-4d4eda145161.png)
+
+The dataset can be found here : https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
