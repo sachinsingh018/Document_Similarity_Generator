@@ -1,6 +1,6 @@
-#Fake News Detector
+# Fake News Detector
 
-#Let's catch Some ![image](https://user-images.githubusercontent.com/38975177/217242897-ebf59dea-a9f3-4de5-be29-4b0259af0de4.png)
+# Let's catch Some ![image](https://user-images.githubusercontent.com/38975177/217242897-ebf59dea-a9f3-4de5-be29-4b0259af0de4.png)
 
 
 The development of this fake news detection system involved the integration of multiple techniques and tools to create an accurate and efficient solution. The use of NLTK, TF-IDF vectorizer, and the Multinomial Naive Bayes algorithm allowed for the system to achieve a high level of accuracy in detecting fake news, with a train data accuracy of 0.9591 and a test data accuracy of 0.9511. The application of natural language processing techniques, such as NLP, was crucial in the pre-processing and cleaning of the text data, ensuring that the model was trained on relevant and meaningful information. The implementation of vectorization and classification methods further allowed for the training and testing of the model, ensuring that it was capable of accurately detecting fake news.
